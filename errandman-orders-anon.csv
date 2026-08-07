@@ -1,0 +1,101 @@
+ID,Type,Title,Status,Customer,Rider,Rider Phone,Accept (ms),Price,From,To,Heavy,Created,Assigned
+6a58de77001a52172ae1,waybill,DropOff,Assigned,Customer 1,Errand Man Rider 1,9033235019.0,38331.0,2000,"Wizy House, Umuahia, Nigeria",,False,2026-07-16T13:36:55.660+00:00,2026-07-16T13:37:33.991+00:00
+6a58db2c0029517445d4,waybill,DropOff,Cancelled,Customer 14,,,,2000,"Umuahia, Umuahia, Abia, Nigeria",,False,2026-07-16T13:22:52.905+00:00,
+6a58afef0025c13f76db,errand,Food,Refunded,Customer 14,,,,2000,"Ahiaeke market, Ikot Ekpene - Umuahia Rd, Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-07-16T10:18:23.866+00:00,
+6a57bbc6002be2e7dbf7,errand,Laundry,Assigned,Customer 14,Errand Man Rider 1,9033235019.0,2568173.0,2000,"Peace Mass Transport, Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-07-15T16:56:38.880+00:00,2026-07-15T17:39:27.053+00:00
+6a4bd7d10019ec8bc3a9,errand,Food,Delivered,Guest,Errand Man Rider 1,9033235019.0,30387.0,2000,"Streams Of Joy Umuahia, Ikot Ekpene - Umuahia Rd, Umuahia, Nigeria","Federal Medical Centre, Umuahia",False,2026-07-06T16:29:05.471+00:00,2026-07-06T16:29:35.858+00:00
+6a4bc4d900217dd349d6,errand,Food,Delivered,Customer 4,Errand Man Rider 1,9033235019.0,74979.0,1000,Ojiriver by Owerri ,Ojiriver by Owerri,False,2026-07-06T15:08:09.916+00:00,2026-07-06T15:09:24.895+00:00
+6a45220f0005ffab8679,errand,Food,Delivered,Customer 18,Ewa Franklyn,9040954590.0,82998.0,2000,"Upstair line, Umuahia, Nigeria",Amaeke junction Bende Road Nkata Umuahia North LGA,False,2026-07-01T14:19:59.219+00:00,2026-07-01T14:21:22.217+00:00
+6a3e9ec500255d121f9c,errand,Others,Delivered,Guest,Errand Man Rider 1,9033235019.0,33878.0,2000,"Streams of joy, Umuahia","Federal Medical Centre, Umuahia",False,2026-06-26T15:46:13.733+00:00,2026-06-26T15:46:47.611+00:00
+6a3946cb001d1b75c931,errand,Food,Completed,Customer 18,Errand Man Rider 1,9033235019.0,382675.0,2000,"Upstair line, Umuahia, Nigeria",Amaeke junction Bende Road Nkata Umuahia North LGA,False,2026-06-22T14:29:31.584+00:00,2026-06-22T14:35:54.259+00:00
+6a37eedf00045da38c13,errand,Others,Completed,Customer 21,Errand Man Rider 1,9033235019.0,2500394.0,2000,"Streams of joy, Umuahia","Federal Medical Centre, Umuahia",False,2026-06-21T14:02:07.185+00:00,2026-06-21T14:43:47.579+00:00
+6a32760200199676dad8,errand,Errands,Refunded,Guest,,,,1000,"Lord is good lodge Methodist junction , government college ",Awolowo by Okigwe,False,2026-06-17T10:25:06.535+00:00,
+6a291869001a6894d60f,waybill,PickUp,Completed,Customer 16,Ewa Franklyn,9040954590.0,10369163.0,3300,,Umudike,False,2026-06-10T07:55:21.641+00:00,2026-06-10T10:48:10.804+00:00
+6a283f5d0009ea96a683,errand,Others,Assigned,Customer 2,Ewa Franklyn,9040954590.0,449661.0,3000,Sage lodge living rocks junction umudike ,28 school road by finbars,False,2026-06-09T16:29:17.515+00:00,2026-06-09T16:36:47.176+00:00
+6a283f4e002315e8e706,errand,Others,Delivered,Guest,Errand Man Rider 1,9033235019.0,762526.0,3000,Sage lodge living rocks junction umudike ,28 school road by finbars,False,2026-06-09T16:29:02.701+00:00,2026-06-09T16:41:45.227+00:00
+6a26d7a6001c44a28bef,errand,Food,Completed,Customer 14,Errand Man Rider 1,9033235019.0,16159.0,2000,"Peace Mass Transit Umuahia, Crowther Street, Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-06-08T14:54:30.904+00:00,2026-06-08T14:54:47.063+00:00
+6a1ff7000009605c675b,waybill,PickUp,Completed,Customer 21,Ikechukwu Ujah,8080200012.0,3902554.0,1000,,"Federal Medical Centre, Umuahia",False,2026-06-03T09:42:24.282+00:00,2026-06-03T10:47:26.836+00:00
+6a1ebee20021c9c3d3bb,waybill,PickUp,Completed,Customer 21,Errand Man Rider 1,9033235019.0,43821.0,1000,,"Federal Medical Centre, Umuahia",False,2026-06-02T11:30:42.666+00:00,2026-06-02T11:31:26.487+00:00
+6a1ae656003261cc170f,errand,Food,Delivered,Customer 12,Errand Man Rider 1,9033235019.0,29495.0,2000,"Macotech after isi court junction , umuahia","Umuahia, Umuahia, Abia, Nigeria",False,2026-05-30T13:29:58.930+00:00,2026-05-30T13:30:28.425+00:00
+6a184fc90035b23600d4,waybill,PickUp,Assigned,Customer 8,Errand Man Rider 1,9033235019.0,21618.0,1200,,"Federal Medical Centre, Umuahia, Abia, Nigeria",False,2026-05-28T14:23:06.027+00:00,2026-05-28T14:23:27.645+00:00
+6a184fc800037802b71d,waybill,PickUp,Delivered,Guest,Errand Man Rider 1,9033235019.0,30867.0,1200,,"Federal Medical Centre, Umuahia, Abia, Nigeria",False,2026-05-28T14:23:04.175+00:00,2026-05-28T14:23:35.042+00:00
+6a16eae90000890427a8,errand,Errands,Assigned,Customer 11,Errand Man Rider 1,9033235019.0,13982000.0,1200,"2 Trinity Road Afara, Umuahia, Abia, Nigeria","GF5Q+JPH, Umuahia, Abia, Nigeria",False,2026-05-27T13:00:27.084+00:00,2026-05-27T16:53:29.084+00:00
+6a16eae90033a1387a25,errand,Errands,Delivered,Guest,Ewa Franklyn,9040954590.0,1341444.0,1200,"2 Trinity Road Afara, Umuahia, Abia, Nigeria","GF5Q+JPH, Umuahia, Abia, Nigeria",False,2026-05-27T13:00:25.946+00:00,2026-05-27T13:22:47.390+00:00
+6a142ecc000167d4001c,errand,Gas refill,Completed,Guest,Errand Man Rider 1,9033235019.0,453435.0,1000,"Agbama Estate, Agbama gate","Umuahia, Umuahia, Abia, Nigeria",False,2026-05-25T11:13:16.136+00:00,2026-05-25T11:20:49.571+00:00
+6a02f058001576e572b0,waybill,PickUp,Delivered,Guest,Errand Man Rider 1,9033235019.0,58058.0,1500,,"ROAD 2 HOUSE 4 AMAKAMA HOUSING ESTATE, Umuahia, Abia, Nigeria",False,2026-05-12T09:18:16.413+00:00,2026-05-12T09:19:14.471+00:00
+69f217fb0021128d8525,waybill,DropOff,Refunded,Customer 14,,,,1500,"Umuahia, Umuahia, Abia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-04-29T14:38:51.761+00:00,
+69f207bb00013f8bfa15,errand,Errands,Delivered,Guest,Errand Man Rider 1,9033235019.0,,3000,"Sage lodge ,living rocks junction ,umudike Abia state ","Waec office, isicourt ,umuahia",False,2026-04-29T13:29:31.128+00:00,
+69f093320000ca6d3f65,errand,Gas refill,Cancelled,Guest,,,,1000,Agbama Estate,"Umuahia, Umuahia, Abia, Nigeria",False,2026-04-28T11:00:02.093+00:00,
+69ecaee8001bae078663,waybill,PickUp,Completed,Guest,Errand Man Rider 1,9033235019.0,,3000,,"LGA, Melrose junction, Umudike, Abia, Nigeria",False,2026-04-25T12:09:12.478+00:00,
+69e8ac6d001f7d8c33ec,waybill,PickUp,Delivered,Guest,Errand Man Rider 1,9033235019.0,,3000,,"ROAD 2 HOUSE 4 AMAKAMA HOUSING ESTATE, Umuahia, Abia, Nigeria",True,2026-04-22T11:09:33.543+00:00,
+69e088cc0033c11fc0d3,errand,Errands,Refunded,Guest,,,,1000,"Lord is good lodge Methodist junction , govt college ",Umueze ,False,2026-04-16T06:59:24.867+00:00,
+69dd0cda0036f0d3bb5e,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,2000,Umuabali Hall. Along Amachara hospital road. Umuahia,"Lodu Ndume, Nigeria",False,2026-04-13T15:33:47.019+00:00,
+69d9121b0001fbcc5091,errand,Gas refill,Completed,Customer 22,Errand Man Rider 1,9033235019.0,,1000,"Agbama Estate, Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-04-10T15:07:07.201+00:00,
+69d5257f0010e0128548,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,Sage lodge umudike living rocks street ,"Isicourt ,waec office ubakala umuahia",False,2026-04-07T15:40:47.343+00:00,
+69d22ade001a49adb74a,errand,Others,Cancelled,Guest,,,,1500,"Mission Hill, Umuahia, Nigeria","Umuawa-Alaocha Road, Umuawa-Alaocha Road, Umuahia, Abia, Nigeria",False,2026-04-05T09:26:54.452+00:00,
+69d12df4000c14b872f8,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,2000,Umuabali along Amachara hospital. Umuahia,"Lodu Ndume, Nigeria",False,2026-04-04T15:27:48.230+00:00,
+69c3a0f10027bdb900bf,waybill,PickUp,Completed,Guest,Errand Man Rider 1,9033235019.0,,2000,,"ROAD 2 HOUSE 4 AMAKAMA HOUSING ESTATE, Umuahia, Abia, Nigeria",False,2026-03-25T08:46:41.670+00:00,
+69b6a08d000a02ee08ef,errand,Others,Refunded,Guest,,,,1000,"Michael Okpara University of Agriculture, Umudike, Umudike Road, Umudike, Nigeria",Ahiakwu Olokoro,False,2026-03-15T12:05:33.269+00:00,
+69b53b30002b50dc1148,errand,Food,Refunded,Customer 3,,,,1000,"Market Square, Umuahia, Nigeria","Federal Medical Centre, Umuahia, Abia, Nigeria",False,2026-03-14T10:40:48.820+00:00,
+69b42a05001b83962df6,errand,Food,Completed,Guest,Errand Man Rider 1,9033235019.0,,1500,"GT Bank, Aba Road, Umuahia, Nigeria","ROAD 2 HOUSE 4 AMAKAMA HOUSING ESTATE, Umuahia, Abia, Nigeria",False,2026-03-13T15:15:17.561+00:00,
+69b41b2e0015d452d872,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,3000,Sage lodge umudike living rocks ,Isicourt waec office Abia state ,False,2026-03-13T14:11:58.408+00:00,
+69b1884d001a03418455,errand,Food,Refunded,Guest,,,,1000,"35 Warri St, Umuahia, Nigeria","GF6V+W3J, Umuahia, Abia, Nigeria",False,2026-03-11T15:20:45.449+00:00,
+69a6dfd0000755c85765,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,Winners road the first house at the back of champions academy,"Umuahia, lord is good lodge methodist junction government college",False,2026-03-03T13:19:12.162+00:00,
+69a5bf2400337cfe0163,waybill,PickUp,Refunded,Guest,,,,1000,,Amaoba junction umuahia ,False,2026-03-02T16:47:32.862+00:00,
+69a1a00a0013c3d9ff26,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,Lord is good lodge Methodist junction govt college ,Fidelity  lodge government college,False,2026-02-27T13:45:46.380+00:00,
+69a002f90030c3b4ec29,errand,Errands,Refunded,Guest,,,,1000,"Lord is good lodge , at Methodist junction government college , ","Emerson Blessed Pharmacy, Lagos St, Umuahia, Nigeria",False,2026-02-26T08:23:21.831+00:00,
+699f43ea00037689a9e9,waybill,PickUp,Refunded,Guest,,,,1000,,Lord is good lodge at Methodist junction govt college ,False,2026-02-25T18:48:10.135+00:00,
+6999ab2f0039cc628b75,waybill,DropOff,Completed,Guest,Errand Man Rider 1,9033235019.0,,3000,"Michael Okpara University of Agriculture, Umudike, Umudike Road, Umudike, Nigeria",,False,2026-02-21T12:55:12.032+00:00,
+6995cc5e0015880a23b4,waybill,PickUp,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,,Lord is good lodge  at Methodist junction govt college ,False,2026-02-18T14:27:42.429+00:00,
+69948f5c0026ae9a5c09,waybill,PickUp,Completed,Guest,abonyi success,9132484669.0,,3500,,Umudike,False,2026-02-17T15:55:08.664+00:00,
+69933cd9001c270db78c,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,"Lord is good lodge , at Methodist junction govt college ","A1 School,Along Secretariat Road ",False,2026-02-16T15:50:49.505+00:00,
+6991df32000ad3bf15d1,errand,Food,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,1500,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria",Umudike ,False,2026-02-15T14:58:59.365+00:00,
+6991bc6b000a5af02319,errand,Food,Delivered,Customer 7,Errand Man Rider 1,9033235019.0,,1500,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria","Afara Street, Umuahia, Nigeria",False,2026-02-15T12:30:36.336+00:00,
+6991a5ce002d9a22a995,errand,Others,Delivered,Customer 17,Testupdated ridesd,1111111114.0,,1000,Chase world junction  Destiny lodge,"Umuahia, Umuahia, Abia, Nigeria",False,2026-02-15T10:54:07.223+00:00,
+699081d6003943f14e12,errand,Food,Delivered,Customer 7,Errand Man Rider 1,9033235019.0,,1500,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria","Afara Street, Umuahia, Nigeria",False,2026-02-14T14:08:24.763+00:00,
+6990761000080c1ee4d2,waybill,PickUp,Completed,Customer 10,Errand Man Rider 1,9033235019.0,,1000,,Zamora lodge amoaoba umuahia,False,2026-02-14T13:18:08.691+00:00,
+69904e07000e76c23b69,errand,Food,Delivered,Customer 7,Errand Man Rider 1,9033235019.0,,1000,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria","New Timber Industrial Market, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria",False,2026-02-14T10:27:20.766+00:00,
+698ed91500262525371b,waybill,PickUp,Completed,Guest,Bethel Nwabuko,7012588104.0,,2500,,Umudike,False,2026-02-13T07:56:05.723+00:00,
+698e0e190001e71a6191,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,"Umuahia, lord is good lodge government college",winners road ihe,False,2026-02-12T17:30:01.087+00:00,
+698c72bd0026f98543b5,errand,Others,Completed,Guest,abonyi success,9132484669.0,,3000,"Micheal Okpara University Stadium, Umudike, Nigeria",Goodness and mercy park umuahia,False,2026-02-11T12:14:53.665+00:00,
+698c68fa0025775111a2,errand,Errands,Refunded,Guest,,,,1000,"3c hub, Umuahia, Nigeria",Umuahia,False,2026-02-11T11:33:14.643+00:00,
+698b6b390013e55d41f0,errand,Errands,Completed,Guest,Testupdated ridesd,1111111114.0,,1000,Lord is good lodge  at Methodist junction in government college umuahia ,Okwe ikwano,False,2026-02-10T17:30:33.366+00:00,
+698b4621003b9ea7dbbd,waybill,PickUp,Completed,Guest,Ikechukwu Ujah,8080200012.0,,2500,,"ROAD 2 HOUSE 4 AMAKAMA HOUSING ESTATE, Umuahia, Abia, Nigeria",False,2026-02-10T14:52:18.008+00:00,
+698b3c1c003986c4e222,errand,Errands,Completed,Guest,Testupdated ridesd,1111111114.0,,1000,Treasure lodge at mandy government college ,"Treasure lodge, mandy filling station, government college",False,2026-02-10T14:09:32.970+00:00,
+698afb7d001bb7f6b956,waybill,DropOff,Assigned,Customer 14,Errand Man Rider 1,9033235019.0,8992023174.0,1000,"The Young Shall Grow Motors Ltd, Umuahia, Nigeria",,False,2026-02-10T09:33:49.577+00:00,2026-05-25T11:20:52.751+00:00
+698a0f9a0023aeeb1acf,errand,Errands,Completed,Guest,Errand Man Rider 1,9033235019.0,,1000,"Umuahia , Lord is good lodge at Methodist junction , Government college ","Umuahia , A1 School,Along Secretariat Road",False,2026-02-09T16:47:22.621+00:00,
+6988be20003b8a985351,errand,Errands,Completed,Guest,Bethel Nwabuko,7012588104.0,,1500,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria","Treasure lodge, mandy filling station, government college",False,2026-02-08T16:47:29.013+00:00,
+69885f4b001b3c2bb794,waybill,PickUp,Refunded,Customer 20,,,,1000,,"Federal College of Education, Technical, College Of Education, Asaba, Nigeria",False,2026-02-08T10:02:51.574+00:00,
+69875cd5001f31568a91,errand,Groceries,Refunded,Customer 5,Errand Man Rider 1,9033235019.0,,1000,"Owerri - Onitsha Road, Owerri Owerri West, Imo, Nigeria","Owerri - Onitsha Road, Owerri Owerri West, Imo, Nigeria",False,2026-02-07T15:40:05.615+00:00,
+6983713300175e6e2074,errand,Food,Cancelled,Customer 14,,,,1500,"Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-02-04T16:17:56.090+00:00,
+6981eba000358ccec873,errand,Food,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,1000,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria","New Timber Industrial Market, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria",False,2026-02-03T12:35:45.086+00:00,
+69809eba002ea7692e4d,errand,Food,Delivered,Customer 7,Testupdated ridesd,1111111114.0,,1000,"FAVOURITE FAST FOOD AND RESTAURANT, Umuahia - Ikot Ekpene Road, Umuahia, Nigeria",IBB ahiaeke ,False,2026-02-02T12:55:22.961+00:00,
+697cc74d00090e0e4a09,waybill,DropOff,Cancelled,Customer 14,,,,1500,"Umuahia, Umuahia, Abia, Nigeria",,False,2026-01-30T14:59:25.276+00:00,
+6974b1f7002262225749,errand,Food,Cancelled,Customer 14,,,,1500,"Market Square, Umuahia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2026-01-24T11:50:15.673+00:00,
+697464a10022d265502c,waybill,PickUp,Refunded,Customer 13,,,,1000,,"Treasure lodge, mandy filling station, government college",False,2026-01-24T06:20:17.956+00:00,
+6973662a0006b37c77a1,waybill,PickUp,Completed,Customer 19,Ikechukwu Ujah,8080200012.0,,3000,,"MOUAU school back of stadium ,maranatha lodge Umudike, Nigeria",False,2026-01-23T12:14:34.249+00:00,
+696fc0790022078c7303,waybill,PickUp,Assigned,Customer 14,Testupdated ridesd,1111111114.0,,1500,,"Umuahia, Umuahia, Abia, Nigeria",False,2026-01-20T17:50:49.762+00:00,
+6949744d00004878f133,waybill,DropOff,Cancelled,Customer 14,,,,1500,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-12-22T16:39:41.113+00:00,
+6949722d000816673cf4,waybill,PickUp,Completed,Customer 14,Errand Man Rider 1,9033235019.0,,1500,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-12-22T16:30:37.255+00:00,
+694971bc0018bcaf7d55,waybill,PickUp,Cancelled,Customer 14,,,,1500,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-12-22T16:28:44.521+00:00,
+693fd431000e999065ce,waybill,PickUp,Completed,Guest,Ekene Mbawuike,9137528180.0,,1500,,"Locoust,OPP penco warehouse umuahia",False,2025-12-15T09:26:09.348+00:00,
+6931b452002d01c1b74c,waybill,DropOff,Completed,Guest,Errand Man Rider 1,9033235019.0,,1500,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-12-04T16:18:26.773+00:00,
+68fcbb860027d1e1ba62,waybill,PickUp,Completed,Customer 6,Errand Man Rider 1,9033235019.0,,1000,,"Locoust,OPP penco warehouse umuahia",False,2025-10-25T11:59:03.591+00:00,
+68ef4ba00010657a9d91,waybill,PickUp,Completed,Customer 6,Errand Man Rider 1,9033235019.0,,1000,,"Locoust,OPP penco warehouse umuahia",False,2025-10-15T07:22:08.244+00:00,
+688f74a1003132ef6bcf,waybill,PickUp,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,2000,,"IBB Ahiaeke, Lodu Road",False,2025-08-03T14:39:30.623+00:00,
+688f00060033e3adbafe,waybill,PickUp,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,1554,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-08-03T06:21:59.083+00:00,
+688bb113001ef9bf26bf,waybill,PickUp,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,1554,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-07-31T18:08:19.729+00:00,
+687a7d420015a5f390f7,waybill,PickUp,Completed,Customer 7,Errand Man Rider 1,9033235019.0,,556,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-07-18T16:58:43.111+00:00,
+68768321001a503e4494,waybill,DropOff,Completed,Customer 7,Apple Rider,9031267403.0,,1554,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-07-15T16:34:41.802+00:00,
+68727b340004646d75e8,waybill,DropOff,Completed,Customer 7,Testupdated ridesd,1111111114.0,,1554,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-07-12T15:11:48.208+00:00,
+68727153000c9c2935ec,waybill,DropOff,Picked Up,Customer 7,Testupdated ridesd,1111111114.0,,726,"Umuahia, Umuahia, Abia, Nigeria","Umuahia, Umuahia, Abia, Nigeria",False,2025-07-12T14:29:39.278+00:00,
+68726b5f0012f460cd80,waybill,DropOff,Assigned,Customer 7,Testupdated ridesd,1111111114.0,,726,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-07-12T14:04:15.390+00:00,
+6863bea3000f92309421,waybill,PickUp,Refunded,Customer 15,,,,617,,C and estate ibb housing phase 2 ahie eke ,False,2025-07-01T10:55:31.536+00:00,
+684c7db0003c6c0717ed,waybill,DropOff,Assigned,Customer 9,Component Rider,8022683922.0,,332,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-06-13T19:36:17.178+00:00,
+683a0246001ab298d1b2,waybill,DropOff,Completed,Customer 14,Component Rider,8022683922.0,,467,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-30T19:08:55.149+00:00,
+683a00b90021cc6a18ac,waybill,PickUp,Completed,Customer 14,Component Rider,8022683922.0,,467,,"Umuahia, Umuahia, Abia, Nigeria",False,2025-05-30T19:02:18.232+00:00,
+683888b8001b36e11a64,waybill,DropOff,Completed,Customer 14,Component Rider,8022683922.0,,1629,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-29T16:18:00.923+00:00,
+6838874600166e67acd9,waybill,DropOff,Completed,Customer 14,Component Rider,8022683922.0,,1629,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-29T16:11:50.853+00:00,
+68386dc50035d30767c4,waybill,DropOff,Completed,Customer 14,Component Rider,8022683922.0,,1629,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-29T14:23:02.759+00:00,
+6838670c0036133eb17f,waybill,DropOff,Completed,Customer 14,Testupdated ridesd,1111111114.0,,1629,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-29T13:54:21.649+00:00,
+683324ef0023139fde42,waybill,DropOff,Completed,Customer 14,Testupdated ridesd,1111111114.0,,1857,"Umuahia, Umuahia, Abia, Nigeria",,False,2025-05-25T14:10:56.050+00:00,

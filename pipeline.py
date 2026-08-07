@@ -6,6 +6,7 @@ ErrandIQ data pipeline
 - Builds insight tables via queries.build_insight_tables() (all SQL lives in queries.py)
 - Trains a rider accept-time model (small-N: cross-validated, no holdout)
 """
+import os
 import sqlite3
 import pickle
 import numpy as np
@@ -20,7 +21,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, roc_auc_score, accura
 
 import queries
 
-RAW_PATH = "errandman-orders (1).csv"
+RAW_PATH = "errandman-orders-anon.csv" if os.path.exists("errandman-orders-anon.csv") else "errandman-orders (1).csv"
 DB_PATH = "errandiq.db"
 MODEL_PATH = "accept_time_model.pkl"
 ASSIGN_MODEL_PATH = "assignment_model.pkl"
@@ -47,7 +48,7 @@ df["is_refunded"] = (df["Status"] == "Refunded").astype(int)
 df["is_cancelled"] = (df["Status"] == "Cancelled").astype(int)
 df["was_assigned"] = df["Assigned"].notna().astype(int)
 
-df_clean = df.drop(columns=["Customer Phone", "Rider Phone"])
+df_clean = df.drop(columns=["Customer Phone", "Rider Phone"], errors="ignore")
 df_clean["Created"] = df_clean["Created"].astype(str)
 df_clean["Assigned"] = df_clean["Assigned"].astype(str)
 

@@ -2,7 +2,6 @@
 venv/
 *.db
 *.pkl
-errandman-orders*.csv
 __pycache__/
 *.pyc
 .DS_Store
