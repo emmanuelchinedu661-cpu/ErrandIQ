@@ -5,11 +5,11 @@ Run with: streamlit run app.py
 """
 import streamlit as st
 import os
-
+import sys
 import pages_content
 if not os.path.exists("errandiq.db"):
     import subprocess
-    subprocess.run(["python", "pipeline.py"], check=True)
+    subprocess.run([sys.executable, "pipeline.py"], check=True)
 
 
 st.set_page_config(page_title="ErrandIQ", page_icon="🛵", layout="wide")
